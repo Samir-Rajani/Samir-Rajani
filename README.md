@@ -17,7 +17,7 @@
    - at **Memorial University of Newfoundland** :school:	
 
 ### **Hobbies:**
-Outdoors :earth_americas:	| Traveling :airplane: | Cooking :hamburger: | Anime :tv: | Thrifting :handbag: | Martial Arts :dart:
+<div style="text-align:justify">Outdoors :earth_americas:	| Traveling :airplane: | Cooking :hamburger: | Anime :tv: | Thrifting :handbag: | Martial Arts :dart: </div>
 
 ### :hash: **Languages:**
 <div align="center">
