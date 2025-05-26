@@ -1,12 +1,12 @@
 <div id="header" align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDgyMjI4ODMsIm5iZiI6MTc0ODIyMjU4MywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTI2VDAxMjMwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdmZGZkNjYzZWY4OTI2ZTU4ZTk2NzAwM2UxMzFlZTkyM2JmOGYxODJkYmU4MWMzZWQzMTVhNmU1YjJlZDRjMDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.7pSCIL4l3Leq5mNRHXp-UvUFvmvTL0iTdXLuV6uLloI" width="250" style="position:relative"/>
+  <img src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDgyMjI4ODMsIm5iZiI6MTc0ODIyMjU4MywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTI2VDAxMjMwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdmZGZkNjYzZWY4OTI2ZTU4ZTk2NzAwM2UxMzFlZTkyM2JmOGYxODJkYmU4MWMzZWQzMTVhNmU1YjJlZDRjMDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.7pSCIL4l3Leq5mNRHXp-UvUFvmvTL0iTdXLuV6uLloI" width="250"/>
 </div>
 
 <!--<h1 align="center">
   
 </h1>-->
 
-<div id="badges" align="left">
+<div id="badges" align="left" style="position:absolute">
   <a href="https://www.linkedin.com/in/SamirRajani/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
   </a>
