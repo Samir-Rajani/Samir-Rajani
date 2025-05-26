@@ -17,7 +17,7 @@
    - at **Memorial University of Newfoundland** :school:	
 
 ### **Hobbies:**
-<div align=justify>Outdoors :earth_americas:	| Traveling :airplane: | Cooking :cook: | Anime :tv: | Thrifting :handbag: | Martial Arts :dart: </div>
+<div align=justify>Outdoors :earth_americas:	| Traveling :airplane: | Cooking :cook: | Anime :tv: | Thrifting :handbag: | Martial Arts :wrestling: </div>
 
 ### :hash: **Languages:**
 <div align="center">
@@ -31,7 +31,10 @@
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="100" height="100"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Nodejs" alt="Nodejs" width="100" height="100"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="100" height="100"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="100" height="100"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="100" height="100"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="100" height="100"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQlite" alt="SQlite" width="100" height="100"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" alt="Scikit-learn" width="100" height="100"/>
 </div>
