@@ -4,13 +4,13 @@
 
 <!--<h1 align="center">
   right
-</h1>-->
+</h1>
 
 <div id="badges" align="left">
   <a href="https://www.linkedin.com/in/SamirRajani/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
   </a>
-</div>
+</div>-->
 
 ### About Me :
 - *Majoring* in **Bachelor of** **Computer Science** :computer:
