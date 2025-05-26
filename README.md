@@ -6,7 +6,7 @@
   right
 </h1>-->
 
-<div id="badges" align="left" style="position:absolute">
+<div id="badges" align="left">
   <a href="https://www.linkedin.com/in/SamirRajani/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
   </a>
