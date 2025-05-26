@@ -13,13 +13,17 @@
   </a>
 </div>
 
-### :man_technologist: About Me :
+### About Me :
 - *Majoring* in **Bachelor of** **Computer Science** :computer:
    - at **Memorial University of Newfoundland** :school:	
 
-### :ocean: **Hobbies:**
-- Gaming :video_game:	
-- Soccer :soccer:	
+### **Hobbies:**
+- Outdoors :earth_americas:	
+- Traveling :airplane:
+- Cooking :hamburger:
+- Anime :tv:
+- Thrifting :handbag:
+- Martial Arts :dart:
 
 ---
 
@@ -27,7 +31,6 @@
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="100" height="100"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="100" height="100"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="c++" alt="C++" width="100" height="100"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="100" height="100"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="100" height="100"/>
 </div>
@@ -39,7 +42,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="100" height="100"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="100" height="100"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQlite" alt="SQlite" width="100" height="100"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="100" height="100"/>
 </div>
 
 ---
